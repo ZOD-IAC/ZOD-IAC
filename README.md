@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎮 HARSHIT VARUN — LVL 22 FULL-STACK DEVELOPER
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=3000&pause=1000&color=4FD1FF&center=true&vCenter=true&width=600&lines=HARSHIT+VARUN;LVL+22+FULL-STACK+DEV;LOADING+QUEST+LOG...;BUG+EXTERMINATOR)](https://git.io/typing-svg)
 
 ### *"Ships code. Kills bugs. Occasionally sketches floor plans for fun."*
 
@@ -8,7 +8,22 @@
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zod-iac)
 [![Email](https://img.shields.io/badge/EMAIL-MESSAGE-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshitvarun89@gmail.com)
 
+### 🎮 [**▶ OPEN THE FULL INTERACTIVE CHARACTER SHEET**](https://ZOD-IAC.github.io/ZOD-IAC/character-sheet.html)
+*(clickable skill tree, expandable quest log, flip-to-reveal achievements, and a stamp you can actually press)*
+
 </div>
+
+---
+
+### 🐍 Contribution Snake *(auto-generated nightly by GitHub Actions — literally eats your commit graph)*
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZOD-IAC/ZOD-IAC/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZOD-IAC/ZOD-IAC/output/github-contribution-grid-snake.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/ZOD-IAC/ZOD-IAC/output/github-contribution-grid-snake.svg">
+</picture>
+
+*(this appears automatically once the workflow below runs once on your repo)*
 
 ---
 
@@ -162,3 +177,56 @@ A static gym site turned into a showcase of buttery GSAP animations, 3 interacti
 ![Visitor Badge](https://img.shields.io/badge/dynamic/json?color=blueviolet&label=STATUS&query=%24.status&url=https%3A%2F%2Fapi.github.com%2Fusers%2FZOD-IAC&style=for-the-badge)
 
 </div>
+
+---
+
+## ⚙️ Making the interactive bits actually work
+
+This README references two things that need a one-time setup on your side — after that they run themselves.
+
+**1. The Contribution Snake (auto-updates nightly, zero maintenance)**
+
+In your `ZOD-IAC/ZOD-IAC` profile repo, create `.github/workflows/snake.yml` with:
+
+```yaml
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 2 * * *"   # daily at 2 AM UTC
+  workflow_dispatch: {}
+  push:
+    branches: [ main ]
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate snake animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ZOD-IAC
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+Push it once (or trigger it manually from the Actions tab) and the snake SVGs will exist at the `output` branch URLs already referenced above.
+
+**2. The Interactive Character Sheet (GitHub Pages)**
+
+1. Put `character-sheet.html` in your `ZOD-IAC/ZOD-IAC` repo (repo root is fine).
+2. Repo **Settings → Pages → Source** → deploy from `main` branch, `/ (root)`.
+3. It'll be live at `https://ZOD-IAC.github.io/ZOD-IAC/character-sheet.html` — matching the link already in the README above.
+
+Everything else (typing header, stats widgets, streak stats, badges) is already live and needs no setup — they're hosted by external read-only services that render on every page load.
