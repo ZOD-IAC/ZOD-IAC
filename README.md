@@ -1,24 +1,164 @@
-# 💫 About Me:
-🔭 I’m currently working on QueryNest<br>🌱 I’m currently learning Back-end technologies <br>💬 Ask me about Front-end<br>⚡ Fun fact
+<div align="center">
 
+# 🎮 HARSHIT VARUN — LVL 22 FULL-STACK DEVELOPER
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zod-iac) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshitvarun89@gmail.com) 
+### *"Ships code. Kills bugs. Occasionally sketches floor plans for fun."*
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ZOD-IAC&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ZOD-IAC&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZOD-IAC&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Profile Views](https://komarev.com/ghpvc/?username=ZOD-IAC&color=blueviolet&style=for-the-badge&label=SCANS)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zod-iac)
+[![Email](https://img.shields.io/badge/EMAIL-MESSAGE-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshitvarun89@gmail.com)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ZOD-IAC&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ZOD-IAC&limit=5&theme=onedark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ZOD-IAC&icon=0&color=4)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧙 CHARACTER SHEET
+
+```
+┌─────────────────────────────────────────────────────────┐
+│  CLASS: Full-Stack Developer         GUILD: CollegeDekho │
+│  RANK:  SDE I                        BASE: Gurugram, IN  │
+│  TITLE: "The Bug Whisperer"          AGE:  1+ yrs XP      │
+└─────────────────────────────────────────────────────────┘
+```
+
+| STAT | RATING | BAR |
+|---|---|---|
+| 🖥️ Frontend Engineering | 88/100 | ████████▓░ |
+| ⚙️ Backend / APIs | 74/100 | ███████▓░░ |
+| 🗄️ Database Wrangling | 70/100 | ███████░░░ |
+| 🐛 Bug Extermination | 90/100 | █████████░ |
+| 🎨 UI/UX Instincts | 78/100 | ███████▓░░ |
+| 🏗️ Side-Quest Architecture (real buildings, not just codebases) | 55/100 | █████▓░░░░ |
+
+---
+
+## 🌳 SKILL TREE
+
+```
+                              ⭐ HARSHIT
+                                  │
+        ┌────────────┬───────────┼───────────┬────────────┐
+        │             │           │           │            │
+   [FRONTEND]     [BACKEND]   [DATABASE]  [MOBILE]     [TOOLS]
+        │             │           │           │            │
+   React.js ★★★   Node.js ★★★  MongoDB ★★★ React     Git ★★★
+   Next.js  ★★★   Express  ★★★  MySQL   ★★  Native ★★  Postman ★★
+   TypeScript★★★  Django   ★★               Stream     PM2 ★★
+   Redux Toolkit★★★ REST APIs★★★            Chat SDK   Nginx ★★
+   Tailwind ★★★   JWT Auth ★★★                         OCI ★★
+   Ant Design★★★                                        JMeter ★
+   CKEditor5★★                                          Blender ★
+   Tiptap   ★★
+   GSAP     ★★
+```
+
+---
+
+## 📜 QUEST LOG *(Active & Completed)*
+
+<details open>
+<summary><b>🏰 MAIN STORYLINE — CollegeDekho (Oct 2024 – Present)</b></summary>
+<br>
+
+| Quest | Reward |
+|---|---|
+| ⚔️ Shipped features across React Native chat app (Stream Chat SDK) + Next.js public site, reaching **millions of players (students)** | 🏆 Scale Badge |
+| 🛠️ Built an Electron + Node.js admin dashboard **from scratch** for non-technical moderators | 🏆 -40% Operational Overhead |
+| 🎨 Delivered 3+ CMS dashboards (React, Redux, Ant Design) with REST integrations | 🏆 +30% Content Efficiency |
+
+</details>
+
+<details>
+<summary><b>🦷 SIDE QUEST — Dental Facets (Freelance, Aug 2024 – Feb 2025)</b></summary>
+<br>
+
+| Quest | Reward |
+|---|---|
+| 🌐 Built and launched a full site from zero using Next.js + W3Forms inquiry system | 🏆 New Realm Unlocked |
+| 📈 SEO-optimized, fully responsive build | 🏆 -15% Bounce Rate, 60-Day Visibility Boost |
+
+</details>
+
+<details>
+<summary><b>🎓 ORIGIN STORY — CollegeDekho Intern (Mar 2024 – Sep 2024)</b></summary>
+<br>
+
+| Quest | Reward |
+|---|---|
+| 🐞 Squashed production bugs across the React CMS | 🏆 -25% Critical Error Reports |
+| 🧹 Refactored frontend modules for maintainability | 🏆 Faster Onboarding + Review Cycles |
+
+</details>
+
+---
+
+## 🏗️ BUILD LOG *(Personal Projects)*
+
+### 🧩 Solvly — *The Community Q&A Realm*
+`Next.js` · `Node.js` · `Express` · `Redux` · `JWT` · `Tiptap` · `Tailwind CSS`
+
+A full-stack Q&A platform for devs/IT folks, complete with rich-text editing, JWT auth, and Multiavatar-generated identities. Decoupled frontend/backend architecture, REST-powered throughout.
+
+🔗 **[solvly.website](https://solvly.website)**
+
+### 💪 Gym & Fitness Website — *The Performance Dungeon*
+`Next.js` · `Tailwind CSS` · `GSAP`
+
+A static gym site turned into a showcase of buttery GSAP animations, 3 interactive health calculators, and a blog — built purely for the UI flex.
+
+---
+
+## 📊 LIVE STATS *(auto-updates — GitHub magic, not manual grinding)*
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZOD-IAC&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZOD-IAC&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZOD-IAC&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+## 🎒 INVENTORY *(Tech Stack)*
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+## 🏆 ACHIEVEMENTS UNLOCKED
+
+- 🥇 **"From Intern to SDE I"** — Promoted within the same guild after 6 months
+- 🥈 **"Freelance Founder Arc"** — Shipped a client site solo, start to finish
+- 🥉 **"Architect of Two Worlds"** — Codes buildings *and* sketches floor plans (27×33 ft residential plot, for fun)
+- 🎯 **"The 40% Slayer"** — Cut manual ops overhead by 40% with a custom-built dashboard
+- 📚 **"BCA Graduate"** — GD Goenka University, 2021–2024
+
+---
+
+<div align="center">
+
+### 💬 "Currently grinding XP in production, side-questing in architecture sketches."
+
+![Visitor Badge](https://img.shields.io/badge/dynamic/json?color=blueviolet&label=STATUS&query=%24.status&url=https%3A%2F%2Fapi.github.com%2Fusers%2FZOD-IAC&style=for-the-badge)
+
+</div>
